@@ -1,0 +1,14 @@
+names:
+- Paper
+- Rock
+- Scissors
+nc: 3
+roboflow:
+  license: Private
+  project: rock-paper-scissors-sxsw
+  url: https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw/dataset/14
+  version: 14
+  workspace: roboflow-58fyf
+test: D:/workspace_py/generative_AI_class/7일차_이미지데이터전처리/Rock-Paper-Scissors-SXSW-14/test/images
+train: D:/workspace_py/generative_AI_class/7일차_이미지데이터전처리/Rock-Paper-Scissors-SXSW-14/train/images
+val: D:/workspace_py/generative_AI_class/7일차_이미지데이터전처리/Rock-Paper-Scissors-SXSW-14/valid/images
