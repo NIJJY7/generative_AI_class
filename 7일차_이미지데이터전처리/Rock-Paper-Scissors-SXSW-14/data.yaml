@@ -2,7 +2,7 @@ names:
 - Paper
 - Rock
 - Scissors
-nc: 3
+nc: 1
 roboflow:
   license: Private
   project: rock-paper-scissors-sxsw
